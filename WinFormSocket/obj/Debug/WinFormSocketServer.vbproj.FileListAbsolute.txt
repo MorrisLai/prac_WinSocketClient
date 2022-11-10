@@ -1,0 +1,12 @@
+C:\Users\iamki\source\repos\WinFormSocketServer\WinFormSocketServer\bin\Debug\WinFormSocketServer.exe.config
+C:\Users\iamki\source\repos\WinFormSocketServer\WinFormSocketServer\bin\Debug\WinFormSocketServer.exe
+C:\Users\iamki\source\repos\WinFormSocketServer\WinFormSocketServer\bin\Debug\WinFormSocketServer.pdb
+C:\Users\iamki\source\repos\WinFormSocketServer\WinFormSocketServer\bin\Debug\WinFormSocketServer.xml
+C:\Users\iamki\source\repos\WinFormSocketServer\WinFormSocketServer\obj\Debug\WinFormSocketServer.vbproj.AssemblyReference.cache
+C:\Users\iamki\source\repos\WinFormSocketServer\WinFormSocketServer\obj\Debug\WinFormSocketServer.Form1.resources
+C:\Users\iamki\source\repos\WinFormSocketServer\WinFormSocketServer\obj\Debug\WinFormSocketServer.Resources.resources
+C:\Users\iamki\source\repos\WinFormSocketServer\WinFormSocketServer\obj\Debug\WinFormSocketServer.vbproj.GenerateResource.cache
+C:\Users\iamki\source\repos\WinFormSocketServer\WinFormSocketServer\obj\Debug\WinFormSocketServer.vbproj.CoreCompileInputs.cache
+C:\Users\iamki\source\repos\WinFormSocketServer\WinFormSocketServer\obj\Debug\WinFormSocketServer.exe
+C:\Users\iamki\source\repos\WinFormSocketServer\WinFormSocketServer\obj\Debug\WinFormSocketServer.xml
+C:\Users\iamki\source\repos\WinFormSocketServer\WinFormSocketServer\obj\Debug\WinFormSocketServer.pdb
